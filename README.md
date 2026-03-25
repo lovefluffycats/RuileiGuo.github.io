@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ruilei Guo 👋
 
-I am an undergraduate student at **Tsinghua University**, pursuing a Dual Bachelor's Degree in Weiyang College (B.S. in Computer Science and Technology | B.S. in Math and Physics & Energy and Power Engineering).
+I am an undergraduate student at **Tsinghua University**, pursuing a Dual Bachelor's Degree in Weiyang College (B.S. in Computer Science and Technology & B.S. in Math and Physics & Energy and Power Engineering).
 
 My primary focus lies at the intersection of Artificial Intelligence and Cognitive Science. I am deeply passionate about Multi-modal Large Language Models (MLLMs), Neuro-AI, and exploring the limits of machine perception. What's more, I'm also interested in exploring the application of AI in the physics world and AI security.
 
