@@ -1,5 +1,5 @@
 # RuileiGuo.github.io
-# Hi there, I'm Ruilei Guo 👋
+# Hi there, I'm Ruilei Guo 👋 ![c6d2739a3eb24bdb5f33a8d597813408](https://github.com/user-attachments/assets/82a5e94d-56ef-4d31-bd2f-8510842455be)
 
 [cite_start]I am an undergraduate student at **Tsinghua University** [cite: 4][cite_start], pursuing a Dual Bachelor's Degree in Weiyang College [cite: 5] (B.S. in Computer Science and Technology | B.S. in Math and Physics & Energy and Power Engineering) [cite_start][cite: 8]. 
 
@@ -20,5 +20,7 @@ My primary focus lies at the intersection of Artificial Intelligence and Cogniti
 * [cite_start]5th Place, 1st Kaggle Competition, Weiyang College (2023-2024) [cite: 72]
 
 ## 📫 How to Reach Me
-* [cite_start]**Location:** Tsinghua University [cite: 4]
-* [cite_start]**Email:** grl23@mails.tsinghua.edu.cn [cite: 2]
+* [cite_start]**Location:** Tsinghua University, Beijing China [cite: 4]
+* [cite_start]**Email:** grl23@mails.tsinghua.edu.cn & leig9900@gmail.com [cite: 2]
+  
+
